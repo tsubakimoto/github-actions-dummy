@@ -14,3 +14,8 @@ Write by GitHub Actions #3.
 git config --local user.email "action@github.com"
 git config --local user.name "GitHub Action"
 ```
+
+```
+git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+git config --local user.name "github-actions[bot]"
+```
