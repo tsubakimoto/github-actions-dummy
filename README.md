@@ -6,6 +6,8 @@ Write by GitHub Actions.
 
 Write by GitHub Actions #2.
 
+Write by GitHub Actions #3.
+
 "GitHub Actions" でコミットしたい場合の構成
 
 ```
