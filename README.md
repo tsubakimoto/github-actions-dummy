@@ -4,6 +4,8 @@ Write by tsubakimoto.
 
 Write by GitHub Actions.
 
+Write by GitHub Actions #2.
+
 "GitHub Actions" でコミットしたい場合の構成
 
 ```
